@@ -23,6 +23,6 @@
  	 <a href="https://discord.gg/7kFH7awz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thatianamattos25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thatiana-mattos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="[https://wa.me/<13991377346>](https://wa.me/5513991377346?text=Ol%C3%A1%20seja%20bem%20vindo(a)%20TM%20Tech%20%0AAtualizando%20os%20seus%20conceitos%20%0AThatiana%20Mattos)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5513991377346?text=Ol%C3%A1%20seja%20bem%20vindo(a)%20TM%20Tech%20%0AAtualizando%20os%20seus%20conceitos%20%0AThatiana%20Mattos" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 </div>
