@@ -23,6 +23,6 @@
  	 <a href="https://discord.gg/7kFH7awz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thatianamattos25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thatiana-mattos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href=https://wa.me/5513991377346?text=Ol%C3%A1,%20seja%20bem%20vindo(a)%0A%0ATM%20Tech%0A%0AAtualizando%20os%0A%0A%20seus%20conceitos%0A%0AThatiana%20Mattos%20 https://wa.me/5513991377346?text=Ol%C3%A1,%20seja%20bem%20vindo(a)%0A%0ATM%20Tech%0A%0AAtualizando%20os%0A%0A%20seus%20conceitos%0A%0AThatiana%20Mattos%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5513991377346?text=Ol%C3%A1%20seja%20bem%20vindo(a)%0A%0ATM%20Tech%0AAtualizando%20os%20seus%20conceitos%0A%0AThatiana%20Mattos" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 </div>
