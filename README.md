@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou me especializando em front-end e futuramente ser uma full-stack
 - 👀 Tenho interesse em aprender novas linguagens de programação.
-- 🌱 Estudando Analise e desenvolvimento de sistemas, HTML, CSS3 e JS
+- 🌱 Estudando Analise e desenvolvimento de sistemas, HTML, CSS3, JS, React e Python
 - 💞️ Procuro colaborar em projetos do meu curso.
 - 📫 Contate-me no email: thatianamattos25@gmail.com
 - 😄 Pronouns: ela/dela
