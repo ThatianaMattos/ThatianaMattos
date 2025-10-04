@@ -2,19 +2,19 @@
 <h1 align="center">Olá, eu sou a Thatiana Mattos 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedora <b>Full-Stack</b> em formação · 🎓 Tecnóloga em <b>ADS</b> (concluído) · 🎓 Bacharelanda em <b>Ciência da Computação (5º semestre)</b><br/>
-  🚀 Apaixonada por tecnologia, aprendizado contínuo e projetos com impacto real
+  💻 Desenvolvedora <b>Full-Stack em formação</b> · 🎓 Tecnóloga em <b>Análise e Desenvolvimento de Sistemas</b> (concluído) · 🎓 Bacharelanda em <b>Ciência da Computação (5º semestre)</b><br/>
+  🚀 Com experiência prévia em TI (infraestrutura, suporte e data center) e foco atual no desenvolvimento de aplicações completas
 </p>
 
 <p align="center">
-  <!-- botões com target _blank -->
-  <a href="https://www.linkedin.com/in/thatiana-mattos" target="_blank">
+  <!-- botões -->
+  <a href="https://www.linkedin.com/in/thatiana-mattos">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/ThatianaMattos" target="_blank">
+  <a href="https://github.com/ThatianaMattos">
     <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:thatianamattos25@gmail.com" target="_blank">
+  <a href="mailto:thatianamattos25@gmail.com">
     <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -32,16 +32,17 @@
 ---
 
 ## ✨ Sobre mim
-Sou movida por **resolver problemas com código** e transformar ideias em interfaces bonitas e funcionais.  
-Atualmente foco em **front-end (React + Tailwind)**, sem perder a base de **lógica/Python** e o apoio do **back-end** com **Node.js + SQL**.
+Sou Desenvolvedora **Full-Stack em formação**, com base sólida em **infraestrutura de TI** e experiência prática em suporte, redes e banco de dados.  
+Atualmente, aplico esse conhecimento na construção de soluções completas — do **front-end** ao **back-end**, integrando tecnologias modernas e boas práticas de desenvolvimento.  
 
 <details>
   <summary><b>Mais sobre minha jornada</b> (clique para expandir)</summary>
 
-- 🎯 Objetivo: primeira oportunidade como <b>Desenvolvedora (Front/Full-Stack)</b>  
-- 🧠 Base forte em lógica (estudos com o <i>Método Mente Lógica</i>)  
-- 🧩 Experiência prévia em TI (infra/data center) — disciplina e organização de projetos  
-- 🌱 Sempre aprendendo: cursos, projetos autorais e contribuição em comunidades  
+- 🎯 **Objetivo**: primeira oportunidade como Desenvolvedora Full-Stack Júnior  
+- 🧠 **Formação**: Tecnóloga em ADS (concluído) + Bacharelado em Ciência da Computação (5º semestre)  
+- 🧩 **Experiência prévia**: 20 anos em TI (infra, suporte e data center) — disciplina, organização e visão sistêmica  
+- 🧑‍💻 **Stack atual**: React, Tailwind, Node.js, MySQL, PostgreSQL, Git/GitHub  
+- 🌱 **Diferenciais**: aprendizado contínuo, resiliência e foco em boas práticas de código  
 </details>
 
 ---
@@ -67,38 +68,29 @@ Atualmente foco em **front-end (React + Tailwind)**, sem perder a base de **lóg
 ---
 
 ## 📌 Projetos em destaque
-<!-- Cards simples com HTML para abrir em nova aba -->
 <table>
   <tr>
     <td width="50%">
       <h3>AlNicks Moments Insta</h3>
       <p>App em <b>Next.js</b> + <b>Tailwind</b> consumindo <b>Unsplash API</b>. Foco em feed responsivo e UX clean.</p>
-      <p>
-        <a href="https://github.com/ThatianaMattos/AlNicks-Moments-Insta" target="_blank">🔗 Repositório</a>
-      </p>
+      <p><a href="https://github.com/ThatianaMattos/AlNicks-Moments-Insta">🔗 Repositório</a></p>
     </td>
     <td width="50%">
       <h3>Pipoca Ágil</h3>
       <p>Contribuições em comunidade: organização, conteúdo e melhorias em páginas. Colaboração e código limpo.</p>
-      <p>
-        <a href="https://github.com/ThatianaMattos/Pipoca-Agil" target="_blank">🔗 Repositório</a>
-      </p>
+      <p><a href="https://github.com/ThatianaMattos/Pipoca-Agil">🔗 Repositório</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Desafios de Lógica</h3>
       <p>Exercícios de lógica em <b>JavaScript</b> e <b>Python</b>, com foco em clareza e boas práticas.</p>
-      <p>
-        <a href="https://github.com/ThatianaMattos/Desafios-Logica" target="_blank">🔗 Repositório</a>
-      </p>
+      <p><a href="https://github.com/ThatianaMattos/Desafios-Logica">🔗 Repositório</a></p>
     </td>
     <td width="50%">
       <h3>+ Projetos</h3>
-      <p>Veja outros repositórios com mini-apps, estudos guiados e experimentos front-end.</p>
-      <p>
-        <a href="https://github.com/ThatianaMattos?tab=repositories" target="_blank">📂 Todos os repositórios</a>
-      </p>
+      <p>Veja outros repositórios com mini-apps, estudos guiados e experimentos full-stack.</p>
+      <p><a href="https://github.com/ThatianaMattos?tab=repositories">📂 Todos os repositórios</a></p>
     </td>
   </tr>
 </table>
@@ -108,13 +100,11 @@ Atualmente foco em **front-end (React + Tailwind)**, sem perder a base de **lóg
 ## 📊 Estatísticas
 <div align="center">
 
-<!-- Stats principais -->
 <img 
   src="https://github-readme-stats.vercel.app/api?username=ThatianaMattos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" 
   alt="GitHub Stats"
 />
 
-<!-- Top langs -->
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatianaMattos&layout=compact&theme=radical&hide_border=true&hide=C,C%2B%2B,Cython" 
   alt="Top Langs"
@@ -134,9 +124,9 @@ Atualmente foco em **front-end (React + Tailwind)**, sem perder a base de **lóg
 
 ## 📬 Contato
 <ul>
-  <li>📧 <a href="mailto:thatianamattos25@gmail.com" target="_blank">E-mail</a></li>
-  <li>💼 <a href="https://www.linkedin.com/in/thatiana-mattos" target="_blank">LinkedIn</a></li>
-  <li>🌐 <a href="https://github.com/ThatianaMattos" target="_blank">GitHub</a></li>
+  <li>📧 <a href="mailto:thatianamattos25@gmail.com">E-mail</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/thatiana-mattos">LinkedIn</a></li>
+  <li>🌐 <a href="https://github.com/ThatianaMattos">GitHub</a></li>
 </ul>
 
-> Se curtiu algum projeto, deixe uma ⭐ — seu feedback ajuda demais! 😄
+> Se curtiu algum projeto, deixe uma ⭐ — seu feedback faz toda diferença! 😄
