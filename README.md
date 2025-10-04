@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/github/stars/ThatianaMattos?style=social" alt="GitHub stars"/>
 </p>
 
-
 ---
 
 ## 📚 Sumário
@@ -82,6 +81,11 @@ Meu objetivo é criar soluções **completas, escaláveis e bem estruturadas**, 
       <p>
         <a href="https://github.com/ThatianaMattos/AlNicks-Moments-Insta" target="_blank">🔗 Repositório</a>
       </p>
+      <!-- Imagens do projeto -->
+      <img src="./alnicks.png" width="200"/>  
+      <img src="./alnicks1.png" width="200"/>  
+      <img src="./alnicks2.png" width="200"/>  
+      <img src="./alnicks3.png" width="200"/>  
     </td>
     <td width="50%">
       <h3>Pipoca Ágil</h3>
@@ -125,15 +129,6 @@ Meu objetivo é criar soluções **completas, escaláveis e bem estruturadas**, 
 />
 
 </div>
-
----
-
-### 🌈 Top Languages
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatianaMattos&layout=compact&hide_border=true&theme=radical&hide=C,C%2B%2B,Cython,SWIG,PowerShell" 
-  alt="Top Langs"
-/>
 
 ---
 
