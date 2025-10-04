@@ -1,26 +1,51 @@
-### Olá! Eu sou a Thatiana Mattos 👋
+# Olá, eu sou a Thatiana Mattos 👋
 
-- 🔭 Hoje estou me especializando em front-end e futuramente ser uma full-stack
-- 👀 Tenho interesse em aprender novas linguagens de programação.
-- 🌱 Estudando Analise e desenvolvimento de sistemas, HTML, CSS3, JS, React e Python
-- 💞️ Procuro colaborar em projetos do meu curso.
-- 📫 Contate-me no email: thatianamattos25@gmail.com
-- 😄 Pronouns: ela/dela
+💻 Desenvolvedora Full-Stack em formação  
+🎓 Estudante de Ciências da Computação (4º semestre)  
+🚀 Apaixonada por tecnologia, aprendizado contínuo e novos desafios  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thaty-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thaty-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Thaty-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thaty-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thaty-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+---
+
+## 🌐 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thatiana-mattos)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThatianaMattos)
+
+---
+
+## 🛠️ Tecnologias que estou estudando:
+- **Front-end:** HTML, CSS, JavaScript, React  
+- **Back-end:** Node.js  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Ferramentas:** Git & GitHub  
+
+---
+
+## 📌 Projetos em destaque:
+🔹 [AlNicks Moments Insta](https://github.com/ThatianaMattos/AlNicks-Moments-Insta) – App em Next.js + Tailwind + Unsplash API  
+🔹 [Pipoca Ágil](https://github.com/ThatianaMattos/Pipoca-Agil) – Contribuições em comunidade  
+🔹 [Desafios de Lógica](https://github.com/ThatianaMattos/Desafios-Logica) – Exercícios de lógica em JS  
+
+---
+
+## 📊 Estatísticas do GitHub:
+<div align="center">
+
+![Thatiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatianaMattos&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatianaMattos&layout=compact&theme=radical)
+
 </div>
 
-##
+---
 
-<div> 
-  <a href="https://www.instagram.com/thatiana33" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/7kFH7awz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:thatianamattos25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thatiana-mattos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+## 🐍 Minhas contribuições em movimento:
+![Snake animation](https://github.com/ThatianaMattos/ThatianaMattos/blob/output/github-contribution-grid-snake.svg)
 
+---
+
+## ✨ Sobre mim
+Sou apaixonada por **resolver problemas com código** e **aprender coisas novas todos os dias**.  
+Atualmente, estou em busca da minha **primeira oportunidade na área de tecnologia** para aplicar meus conhecimentos e continuar evoluindo.  
+
+---
+
+📫 Entre em contato: **thatianamattos25@gmail.com**
