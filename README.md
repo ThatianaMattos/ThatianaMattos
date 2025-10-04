@@ -81,11 +81,12 @@ Meu objetivo é criar soluções **completas, escaláveis e bem estruturadas**, 
       <p>
         <a href="https://github.com/ThatianaMattos/AlNicks-Moments-Insta" target="_blank">🔗 Repositório</a>
       </p>
-      <!-- Imagens do projeto -->
-      <img src="./alnicks.png" width="200"/>  
-      <img src="./alnicks1.png" width="200"/>  
-      <img src="./alnicks2.png" width="200"/>  
-      <img src="./alnicks3.png" width="200"/>  
+      <p align="center">
+        <img src="images/alnicks.png" width="200"/>
+        <img src="images/alnicks1.png" width="200"/>
+        <img src="images/alnicks2.png" width="200"/>
+        <img src="images/alnicks3.png" width="200"/>
+      </p>
     </td>
     <td width="50%">
       <h3>Pipoca Ágil</h3>
