@@ -19,6 +19,13 @@
   </a>
 </p>
 
+<!-- Badges dinâmicos -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ThatianaMattos?style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/ThatianaMattos?style=social" alt="GitHub stars"/>
+</p>
+
+
 ---
 
 ## 📚 Sumário
