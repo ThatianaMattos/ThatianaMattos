@@ -128,6 +128,15 @@ Meu objetivo é criar soluções **completas, escaláveis e bem estruturadas**, 
 
 ---
 
+### 🌈 Top Languages
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatianaMattos&layout=compact&hide_border=true&theme=radical&hide=C,C%2B%2B,Cython,SWIG,PowerShell" 
+  alt="Top Langs"
+/>
+
+---
+
 ## 🐍 Minhas contribuições em movimento
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThatianaMattos/ThatianaMattos/output/github-contribution-grid-snake-dark.svg">
