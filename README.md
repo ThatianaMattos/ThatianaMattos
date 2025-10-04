@@ -114,7 +114,7 @@ Atualmente foco em **front-end (React + Tailwind)**, sem perder a base de **lóg
   alt="GitHub Stats"
 />
 
-<!-- Top langs (ajuste hide conforme preferir) -->
+<!-- Top langs -->
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatianaMattos&layout=compact&theme=radical&hide_border=true&hide=C,C%2B%2B,Cython" 
   alt="Top Langs"
@@ -133,7 +133,10 @@ Atualmente foco em **front-end (React + Tailwind)**, sem perder a base de **lóg
 ---
 
 ## 📬 Contato
-- 📧 **thatianamattos25@gmail.com**  
-- 💼 <a href="https://www.linkedin.com/in/thatiana-mattos" target="_blank">LinkedIn</a> · 🌐 <a href="https://github.com/ThatianaMattos" target="_blank">GitHub</a>
+<ul>
+  <li>📧 <a href="mailto:thatianamattos25@gmail.com" target="_blank">E-mail</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/thatiana-mattos" target="_blank">LinkedIn</a></li>
+  <li>🌐 <a href="https://github.com/ThatianaMattos" target="_blank">GitHub</a></li>
+</ul>
 
 > Se curtiu algum projeto, deixe uma ⭐ — seu feedback ajuda demais! 😄
