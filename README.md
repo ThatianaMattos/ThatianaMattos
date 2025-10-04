@@ -72,47 +72,27 @@ Meu objetivo é criar soluções **completas, escaláveis e bem estruturadas**, 
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projeto em destaque
+
 <table>
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3>AlNicks Moments Insta</h3>
-      <p>App em <b>Next.js</b> + <b>Tailwind</b> consumindo <b>Unsplash API</b>. Foco em feed responsivo e UX clean.</p>
+      <p>App em <b>Next.js</b> + <b>Tailwind</b> consumindo <b>Unsplash API</b>.  
+      Foco em feed responsivo e UX clean.</p>
       <p>
         <a href="https://github.com/ThatianaMattos/AlNicks-Moments-Insta" target="_blank">🔗 Repositório</a>
       </p>
-      <p align="center">
-        <img src="images/alnicks.png" width="200"/>
-        <img src="images/alnicks1.png" width="200"/>
-        <img src="images/alnicks2.png" width="200"/>
-        <img src="images/alnicks3.png" width="200"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Pipoca Ágil</h3>
-      <p>Contribuições em comunidade: organização, conteúdo e melhorias em páginas. Colaboração e código limpo.</p>
       <p>
-        <a href="https://github.com/ThatianaMattos/Pipoca-Agil" target="_blank">🔗 Repositório</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Desafios de Lógica</h3>
-      <p>Exercícios de lógica em <b>JavaScript</b> e <b>Python</b>, com foco em clareza e boas práticas.</p>
-      <p>
-        <a href="https://github.com/ThatianaMattos/Desafios-Logica" target="_blank">🔗 Repositório</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>+ Projetos</h3>
-      <p>Veja outros repositórios com mini-apps, estudos guiados e experimentos Full-Stack.</p>
-      <p>
-        <a href="https://github.com/ThatianaMattos?tab=repositories" target="_blank">📂 Todos os repositórios</a>
+        <img src="./images/alnicks.png" width="200"/>  
+        <img src="./images/alnicks1.png" width="200"/>  
+        <img src="./images/alnicks2.png" width="200"/>  
+        <img src="./images/alnicks3.png" width="200"/>  
       </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
